@@ -1,22 +1,22 @@
 Starting at v8.something manifold supports some of the Polish coordinate systems out of the box.
 The problems are:
 - not all of them
-- there is a mistake in provided definitions: instead og coordsys 65 manifodl says it's 42.
+- there is a mistake in provided definitions: instead of coordsys 65 manifodl says it's 42.
 
-This xml will add a new folder to the national coordsys defs callen Poand_custom and inside the following definitions:
+This xml will add a new folder to the national coordsys defs called Poand_custom and inside the following definitions:
 
-- Borowa Góra
+- Borowa Gï¿½ra
 
 - GUGiK 80
 
-- PUWG 1942 - 3° belts Zone 5 (15E)
-- PUWG 1942 - 3° belts Zone 6 (18E)
-- PUWG 1942 - 3° belts Zone 7 (21E)
-- PUWG 1942 - 3° belts Zone 8 (24E)
+- PUWG 1942 - 3ï¿½ belts Zone 5 (15E)
+- PUWG 1942 - 3ï¿½ belts Zone 6 (18E)
+- PUWG 1942 - 3ï¿½ belts Zone 7 (21E)
+- PUWG 1942 - 3ï¿½ belts Zone 8 (24E)
 
-- PUWG 1942 - 6° belts Zone 3 (15E)
-- PUWG 1942 - 6° belts Zone 4 (21E)
-- PUWG 1942 - 6° belts Zone 5 (27E)
+- PUWG 1942 - 6ï¿½ belts Zone 3 (15E)
+- PUWG 1942 - 6ï¿½ belts Zone 4 (21E)
+- PUWG 1942 - 6ï¿½ belts Zone 5 (27E)
 
 - PUWG 1965 - Zone I
 - PUWG 1965 - Zone II

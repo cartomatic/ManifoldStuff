@@ -1,0 +1,2 @@
+Manifold object accessors are rather slowish so transferring large amounts of data in code may be a pain in the neck.
+A workaround is to use manifold's querries and insert into. This is way faster than adding new records and updating them using the object model.

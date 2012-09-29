@@ -1,0 +1,1 @@
+A simple script to export all the drawing and table components to shp and xls

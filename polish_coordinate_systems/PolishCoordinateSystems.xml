@@ -1,0 +1,497 @@
+<xml>
+
+<preset>
+	<name>Borowa Gora</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Bessel 1841</datum>
+	<system>Double Stereographic</system>
+	<unit>Meter</unit>
+	<majorAxis>6.377397155000000300000000e+006</majorAxis>
+	<eccentricity>8.169683122252750800000000e-002</eccentricity>
+	<centerX>0.000000000000000000000000e+000</centerX>
+	<centerY>0.000000000000000000000000e+000</centerY>
+	<centerZ>0.000000000000000000000000e+000</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.995000000000000600000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.995000000000000600000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>6.000000000000000000000000e+005</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>5.000000000000000000000000e+005</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>5.200000000000000000000000e+001</centerLat>
+	<centerLon>2.200000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1942 Pasy 3-stopniowe Strefa 5 (15E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Russia)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.800000000000000000000000e+001</centerX>
+	<centerY>-1.300000000000000000000000e+002</centerY>
+	<centerZ>-9.500000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>1.000000000000000000000000e+000</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>1.000000000000000000000000e+000</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>5.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>1.500000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1942 Pasy 3-stopniowe Strefa 6 (18E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Russia)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.800000000000000000000000e+001</centerX>
+	<centerY>-1.300000000000000000000000e+002</centerY>
+	<centerZ>-9.500000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>1.000000000000000000000000e+000</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>1.000000000000000000000000e+000</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>6.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>1.800000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1942 Pasy 3-stopniowe Strefa 7 (21E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Russia)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.800000000000000000000000e+001</centerX>
+	<centerY>-1.300000000000000000000000e+002</centerY>
+	<centerZ>-9.500000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>1.000000000000000000000000e+000</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>1.000000000000000000000000e+000</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>7.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>2.100000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1942 Pasy 3-stopniowe Strefa 8 (24E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Russia)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.800000000000000000000000e+001</centerX>
+	<centerY>-1.300000000000000000000000e+002</centerY>
+	<centerZ>-9.500000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>1.000000000000000000000000e+000</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>1.000000000000000000000000e+000</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>8.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>2.400000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1942 Pasy 6-stopniowe Strefa 3 (15E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Russia)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.800000000000000000000000e+001</centerX>
+	<centerY>-1.300000000000000000000000e+002</centerY>
+	<centerZ>-9.500000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>1.000000000000000000000000e+000</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>1.000000000000000000000000e+000</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>3.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>1.500000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1942 Pasy 6-stopniowe Strefa 4 (21E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Russia)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.800000000000000000000000e+001</centerX>
+	<centerY>-1.300000000000000000000000e+002</centerY>
+	<centerZ>-9.500000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>1.000000000000000000000000e+000</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>1.000000000000000000000000e+000</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>4.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>2.100000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1942 Pasy 6-stopniowe Strefa 5 (27E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Russia)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.800000000000000000000000e+001</centerX>
+	<centerY>-1.300000000000000000000000e+002</centerY>
+	<centerZ>-9.500000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>1.000000000000000000000000e+000</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>1.000000000000000000000000e+000</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>5.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>2.700000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1965 Strefa I</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Poland)</datum>
+	<system>Double Stereographic</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.300000000000000000000000e+001</centerX>
+	<centerY>-1.240000000000000000000000e+002</centerY>
+	<centerZ>-8.200000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.998000000000000200000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.998000000000000200000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>4.637000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>5.467000000000000000000000e+006</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>5.062500000000000000000000e+001</centerLat>
+	<centerLon>2.108333333333332900000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1965 Strefa II</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Poland)</datum>
+	<system>Double Stereographic</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.300000000000000000000000e+001</centerX>
+	<centerY>-1.240000000000000000000000e+002</centerY>
+	<centerZ>-8.200000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.998000000000000200000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.998000000000000200000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>4.603000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>5.806000000000000000000000e+006</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>5.300194444444444700000000e+001</centerLat>
+	<centerLon>2.150277777777778000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1965 Strefa III</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Poland)</datum>
+	<system>Double Stereographic</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.300000000000000000000000e+001</centerX>
+	<centerY>-1.240000000000000000000000e+002</centerY>
+	<centerZ>-8.200000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.998000000000000200000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.998000000000000200000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>3.501000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>5.999000000000000000000000e+006</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>5.358333333333334300000000e+001</centerLat>
+	<centerLon>1.700833333333332900000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1965 Strefa IV</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Poland)</datum>
+	<system>Double Stereographic</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.300000000000000000000000e+001</centerX>
+	<centerY>-1.240000000000000000000000e+002</centerY>
+	<centerZ>-8.200000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.998000000000000200000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.998000000000000200000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>3.703000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>5.627000000000000000000000e+006</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>5.167083333333332700000000e+001</centerLat>
+	<centerLon>1.667222222222222100000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1965 Strefa V</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Poland)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.300000000000000000000000e+001</centerX>
+	<centerY>-1.240000000000000000000000e+002</centerY>
+	<centerZ>-8.200000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.999829999999999600000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.999829999999999600000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>2.370000000000000000000000e+005</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>-4.700000000000000000000000e+006</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>1.895833333333332900000000e+001</centerLon>
+</preset>
+<preset>
+	<name>GUGiK 1980</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>Pulkovo 1942 (Poland)</datum>
+	<system>Double Stereographic</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378245000000000000000000e+006</majorAxis>
+	<eccentricity>8.181333401693115200000000e-002</eccentricity>
+	<centerX>2.300000000000000000000000e+001</centerX>
+	<centerY>-1.240000000000000000000000e+002</centerY>
+	<centerZ>-8.200000000000000000000000e+001</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.997142857142856700000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.997142857142856700000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>5.000000000000000000000000e+005</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>5.000000000000000000000000e+005</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>5.216666666666665700000000e+001</centerLat>
+	<centerLon>1.916666666666667100000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 1992</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>World Geodetic 1984 (WGS84)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378137000000000000000000e+006</majorAxis>
+	<eccentricity>8.181919084262148600000000e-002</eccentricity>
+	<centerX>0.000000000000000000000000e+000</centerX>
+	<centerY>0.000000000000000000000000e+000</centerY>
+	<centerZ>0.000000000000000000000000e+000</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.992999999999999700000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.992999999999999700000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>5.000000000000000000000000e+005</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>-5.300000000000000000000000e+006</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>1.900000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 2000 Strefa 5 (15E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>World Geodetic 1984 (WGS84)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378137000000000000000000e+006</majorAxis>
+	<eccentricity>8.181919084262148600000000e-002</eccentricity>
+	<centerX>0.000000000000000000000000e+000</centerX>
+	<centerY>0.000000000000000000000000e+000</centerY>
+	<centerZ>0.000000000000000000000000e+000</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.999230000000000100000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.999230000000000100000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>5.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>1.500000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 2000 Strefa 6 (18E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>World Geodetic 1984 (WGS84)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378137000000000000000000e+006</majorAxis>
+	<eccentricity>8.181919084262148600000000e-002</eccentricity>
+	<centerX>0.000000000000000000000000e+000</centerX>
+	<centerY>0.000000000000000000000000e+000</centerY>
+	<centerZ>0.000000000000000000000000e+000</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.999230000000000100000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.999230000000000100000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>6.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>1.800000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 2000 Strefa 7 (21E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>World Geodetic 1984 (WGS84)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378137000000000000000000e+006</majorAxis>
+	<eccentricity>8.181919084262148600000000e-002</eccentricity>
+	<centerX>0.000000000000000000000000e+000</centerX>
+	<centerY>0.000000000000000000000000e+000</centerY>
+	<centerZ>0.000000000000000000000000e+000</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.999230000000000100000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.999230000000000100000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>7.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>2.100000000000000000000000e+001</centerLon>
+</preset>
+<preset>
+	<name>PUWG 2000 Strefa 8 (24E)</name>
+	<category>National Grids*Poland_Custom</category>
+	<datum>World Geodetic 1984 (WGS84)</datum>
+	<system>Transverse Mercator</system>
+	<unit>Meter</unit>
+	<majorAxis>6.378137000000000000000000e+006</majorAxis>
+	<eccentricity>8.181919084262148600000000e-002</eccentricity>
+	<centerX>0.000000000000000000000000e+000</centerX>
+	<centerY>0.000000000000000000000000e+000</centerY>
+	<centerZ>0.000000000000000000000000e+000</centerZ>
+	<rotationX>0.000000000000000000000000e+000</rotationX>
+	<rotationY>0.000000000000000000000000e+000</rotationY>
+	<rotationZ>0.000000000000000000000000e+000</rotationZ>
+	<scaleAdjustment>0.000000000000000000000000e+000</scaleAdjustment>
+	<scaleX>9.999230000000000100000000e-001</scaleX>
+	<localScaleX>1.000000000000000000000000e+000</localScaleX>
+	<scaleY>9.999230000000000100000000e-001</scaleY>
+	<localScaleY>1.000000000000000000000000e+000</localScaleY>
+	<falseEasting>8.500000000000000000000000e+006</falseEasting>
+	<localOffsetX>0.000000000000000000000000e+000</localOffsetX>
+	<falseNorthing>0.000000000000000000000000e+000</falseNorthing>
+	<localOffsetY>0.000000000000000000000000e+000</localOffsetY>
+	<centerLat>0.000000000000000000000000e+000</centerLat>
+	<centerLon>2.400000000000000000000000e+001</centerLon>
+</preset>
+</xml>

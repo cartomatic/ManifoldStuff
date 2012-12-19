@@ -1,0 +1,59 @@
+using Manifold.Interop.Scripts;
+using M = Manifold.Interop;
+
+using System;
+
+class Script {
+	static void Main() {
+	 	M.Application mApp = Context.Application;
+        //M.Application mApp = new M.Application();
+        M.Document mDoc = (M.Document)mApp.ActiveDocument;
+        M.ComponentSet mCompSet = (M.ComponentSet)mDoc.ComponentSet;
+
+        string compNames = string.Empty;
+        string compContent = string.Empty;
+
+        foreach (M.Component mComp in mCompSet)
+        {
+            mApp.StatusText = "Checking " + mComp + "...";
+
+            compNames += mComp.Name + "; " + mComp.TypeName + Environment.NewLine;
+
+            if (mComp.Type == M.ComponentType.ComponentScript || mComp.Type == M.ComponentType.ComponentQuery)
+            {
+                compContent += mComp.Name + "; " + mComp.TypeName + Environment.NewLine;
+                compContent += "---------------------------------------------" + Environment.NewLine;
+
+                if (mComp.Type == M.ComponentType.ComponentScript)
+                {
+                    M.Script s = (M.Script)mComp;
+                    compContent += s.Text + Environment.NewLine;
+                }
+                else
+                {
+                    M.Query q = (M.Query)mComp;
+                    compContent += q.Text + Environment.NewLine;
+                }
+
+                compContent += "---------------------------------------------" + Environment.NewLine;
+                compContent += "EOF " + mComp.Name + Environment.NewLine + Environment.NewLine;
+            }
+        }
+
+        mApp.StatusText = "Writing output...";
+
+        if (!string.IsNullOrEmpty(compNames))
+        {
+            M.Comments cm = mDoc.NewComments("Comp Names", false);
+            cm.Text = compNames;
+        }
+
+        if (!string.IsNullOrEmpty(compContent))
+        {
+            M.Comments cm = mDoc.NewComments("Script & Query Content", false);
+            cm.Text = compContent;
+        }
+
+        mApp.StatusText = "Done...";
+	}
+}

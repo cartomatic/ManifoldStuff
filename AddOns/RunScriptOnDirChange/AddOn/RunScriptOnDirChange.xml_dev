@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xml>
+	<addin>
+		<name>RunScriptOnDirChange</name>
+		<command>
+			<name>RunScriptOnDirChange</name>
+			<form>E:\HereGoesAPathToTheDebugBinSoCanDebugEasilyInVS\bin\Debug\RunScriptOnDirChange.dll;RunScriptOnDirChange.GUI</form>
+		</command>
+	</addin>
+</xml>
+
